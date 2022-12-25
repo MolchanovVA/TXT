@@ -1,1 +1,9 @@
-
+Num: 1,
+Title: Bug Title,
+Severity: Link
+Preconditions: Install app,
+Steps: 1. Step; 2. Step,
+ExpectedResult: text,
+ActualResult: text",
+Enviroment: win 11, chrome 107,
+Comment: text
